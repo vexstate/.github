@@ -24,4 +24,6 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 - _Vexstate Privacy Policy_: [View document](POLICY.md)
 - _About Vexstate Launcher_: [Read more](LAUNCHER.md)
 
+- [_Click here for update logs_](UPDATELOG.md)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vexstate&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
