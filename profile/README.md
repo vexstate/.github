@@ -26,4 +26,4 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 
 - [_Click here for update logs_](UPDATELOG.md)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexstate&layout=compact&langs_count=6&theme=dracula&hide_border=true)
+![Tech Stack](https://skillicons.dev/icons?i=react,typescript,python,go,docker,aws,githubactions)
