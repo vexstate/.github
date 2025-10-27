@@ -21,7 +21,7 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 - [_About Company_](ABOUT.md)
 - [_Vexstate Terms & Conditions_](TERMS.md)
 - [_Vexstate Privacy Policy_](POLICY.md)
-- [_About Vexstate Launcher_](LAUNCHER.md)
+- [_Vexstate Launcher_](LAUNCHER.md)
 - [_Update Logs_](UPDATELOG.md)
 
 ## Techs that we use
