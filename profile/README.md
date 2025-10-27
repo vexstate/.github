@@ -17,13 +17,12 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 
 # Full Documentation
 
-- _About Vexstate_: [View document](MOREINFO.md)
-- _About Company_: [Read more](ABOUT.md)
-- _Vexstate Terms & Conditions_: [View document](TERMS.md)
-- _Vexstate Privacy Policy_: [View document](POLICY.md)
-- _About Vexstate Launcher_: [Coming soon!](LAUNCHER.md)
-
-- [_Click here for update logs_](UPDATELOG.md)
+- [_About Vexstate_](MOREINFO.md)
+- [_About Company_](ABOUT.md)
+- [_Vexstate Terms & Conditions_](TERMS.md)
+- [_Vexstate Privacy Policy_](POLICY.md)
+- [_About Vexstate Launcher_](LAUNCHER.md)
+- [_Update Logs_](UPDATELOG.md)
 
 ## Techs that we use
 ![Tech Stack](https://skillicons.dev/icons?i=lua,js,ts,cs,react,bootstrap,python,mysql,docker)
