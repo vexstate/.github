@@ -7,7 +7,7 @@
 Welcome to **_Vexstate_**, where immersive storytelling meets cutting-edge development. If you’re here, you’re either curious, ambitious, or ready to jump into one of the most polished and unique roleplay experiences available on <a href="https://fivem.net/" target="_blank"><i>FiveM</i></a>. Either way—glad you’re here.
 This _README_ will walk you through who we are, what makes us different, what we’ve built, and how we’re building something worth your time.
 
-## 🚀 What is Vexstate?
+## What is Vexstate?
 
 Vexstate is a high-performance FiveM Roleplay ecosystem designed from the ground up with stability, customization, and immersion at its core.
 We’re not just another “RP server”—we’re a fully customized universe powered by clean code, beautiful UI, and serious attention to detail.
@@ -16,7 +16,7 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 ---
 
 # Full Documentation
-> Date of last update: 14.06.2025
+> Date of last update: 28.10.2025
 
 - _About Vexstate_: [View document](MOREINFO.md)
 - _About Company_: [Read more](ABOUT.md)
@@ -26,4 +26,5 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 
 - [_Click here for update logs_](UPDATELOG.md)
 
+## Techs that we use
 ![Tech Stack](https://skillicons.dev/icons?i=lua,js,cs,react,bootstrap,python)
