@@ -26,4 +26,4 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 
 - [_Click here for update logs_](UPDATELOG.md)
 
-![Tech Stack](https://skillicons.dev/icons?i=react,typescript,python,go,docker,aws,githubactions)
+![Tech Stack](https://skillicons.dev/icons?i=lua,js,cs,react,bootstrap,python)
