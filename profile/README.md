@@ -27,4 +27,4 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 - [_Click here for update logs_](UPDATELOG.md)
 
 ## Techs that we use
-![Tech Stack](https://skillicons.dev/icons?i=lua,js,cs,react,bootstrap,python)
+![Tech Stack](https://skillicons.dev/icons?i=lua,js,ts,cs,react,bootstrap,python,mysql,docker)
