@@ -18,13 +18,12 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 # Full Documentation
 
 - [_About Vexstate_](MOREINFO.md)
-- [_About Company_](ABOUT.md)
-- [_Vexstate Terms & Conditions_](TERMS.md)
+- [_Terms & Conditions_](TERMS.md)
 - [_Vexstate Privacy Policy_](POLICY.md)
-- [_Vexstate Launcher_](LAUNCHER.md)
+- [_Launcher_](LAUNCHER.md)
 - [_Update Logs_](UPDATELOG.md)
 
 ## Techs that we use
 ![Tech Stack](https://skillicons.dev/icons?i=lua,js,ts,cs,react,bootstrap,python,mysql,docker)
 
-> Date of last update: 28.10.2025
+> Date of last update: 11.05.2025
