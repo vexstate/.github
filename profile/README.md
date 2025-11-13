@@ -17,6 +17,7 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 
 # Full Documentation
 
+- [_Author_](https://github.com/n11kol11c)
 - [_About Vexstate_](MOREINFO.md)
 - [_Terms & Conditions_](TERMS.md)
 - [_Vexstate Privacy Policy_](POLICY.md)
@@ -26,4 +27,4 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 ## Techs that we use
 ![Tech Stack](https://skillicons.dev/icons?i=lua,js,ts,cs,react,bootstrap,python,mysql,docker)
 
-> Date of last update: 11.05.2025
+> Date of last update: 13.11.2025
